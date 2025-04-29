@@ -36,6 +36,11 @@ nav {
     font-weight: bold;
 }
 
+.borda-branca {
+    border: 1px solid white;
+  }
+
+
 .nav-links {
     list-style: none;
     display: flex;
