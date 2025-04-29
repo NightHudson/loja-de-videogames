@@ -5,13 +5,11 @@
 }
 
 
-
 body {
     font-family: 'Poppins', sans-serif;
     background-color: #f5f7fa;
     color: #333;
 }
-
 
 
 :root {
@@ -22,7 +20,6 @@ body {
     --background-dark: #111827;
     --text-light: #f9fafb;
 }
-
 
 
 nav {
@@ -77,7 +74,6 @@ nav {
 }
 
 
-
 button {
     background-color: var(--button-color);
     color: #fff;
@@ -94,7 +90,6 @@ button:hover {
     background-color: var(--button-hover);
     transform: translateY(-3px);
 }
-
 
 
 #Section01 {
@@ -124,7 +119,6 @@ button:hover {
     height: auto;
     border-radius: 12px;
 }
-
 
 
 #Section02 {
@@ -160,7 +154,6 @@ button:hover {
     max-width: 100%;
     border-radius: 12px;
 }
-
 
 
 #Section03 {
@@ -210,7 +203,6 @@ button:hover {
     font-size: 1.2rem;
     margin-bottom: 1.5rem;
 }
-
 
 
 #Section04 {
@@ -270,7 +262,6 @@ button:hover {
 }
 
 
-
 #Section05 {
     padding: 4rem 2rem;
 }
@@ -320,7 +311,6 @@ button:hover {
     max-width: 100%;
     border-radius: 12px;
 }
-
 
 
 #footer {
