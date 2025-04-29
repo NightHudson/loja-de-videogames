@@ -87,10 +87,12 @@ button {
     font-size: 1rem;
     cursor: pointer;
     transition: background-color 0.3s;
+    transition: transform 0.2s ease;
 }
 
 button:hover {
     background-color: var(--button-hover);
+    transform: translateY(-3px);
 }
 
 
